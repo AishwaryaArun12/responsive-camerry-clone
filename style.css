@@ -8,6 +8,10 @@
     height: 100vh;
     margin-top: -3vh;
 }
+#drop{
+    background-color: #bc9e33;
+    color: black;
+}
 header{
     border-bottom: .5px solid rgba(58, 48, 48, 0.8);
 }
